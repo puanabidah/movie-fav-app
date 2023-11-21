@@ -7,3 +7,5 @@ This app is built using the following technologies:
 - Framer Motion
 
 Website URL: https://movie-fav-e807d.web.app/
+
+This credit of the code is from https://github.com/tushar-2223
